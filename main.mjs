@@ -175,4 +175,4 @@ async function renderPDF(videoMaxLengthMin = 50, secCheck = 1000, outputPath = "
     return
 }
 
-renderPDF(3, 1000, "output")
+renderPDF(60, 1000, "output")
